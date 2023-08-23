@@ -1,0 +1,14 @@
+# Connection GitHub
+
+- user
+- password
+
+# Create a new profile
+
+- name : roch29
+- email : 142978797+roch29@users.noreply.github.com 
+
+git config --global user.name roch29
+git config --global user.email 142978797+roch29@users.noreply.github.com 
+git config --global init.defaultBranch main
+

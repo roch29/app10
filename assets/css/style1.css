@@ -1,0 +1,8 @@
+p {
+    background-color: darkgreen; /* Modification réalisée par Dev1*/
+    padding: 5px;
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 220px;
+}
