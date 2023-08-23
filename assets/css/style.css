@@ -1,9 +1,21 @@
-a {
-    background-color: #fdefdf; /* Ajout du nouveau background-color */
-    position: relative;
-}
-
 img {
     width: 300px;
 }
 
+/* Ajout et modification réalisée par Dev2*/
+h4 {
+    background-color: white;
+    padding: 5px;
+    position: absolute;
+    top: 0;
+    left: 30px;  
+}
+
+p {
+    background-color: darkgreen; /* Modification réalisée par Dev1*/
+    padding: 5px;
+    color: white;
+    position: absolute;
+    top: 150px;
+    left: 220px;
+}
